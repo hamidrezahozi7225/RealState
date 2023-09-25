@@ -1,0 +1,13 @@
+.container ul {
+  margin-bottom: 50px;
+  margin-right: 10px;
+  background-color: #1e2f93;
+  color: white;
+  padding: 20px;
+  border-radius: 20px;
+  margin-top: 5px;
+}
+
+.container li {
+  margin: 5px;
+}
